@@ -2,11 +2,7 @@
 
 <h3 align="center">🚀 A Creative Playground of Random, Fun & Useful Tools — Built with HTML, CSS & JavaScript</h3>
 
-<p align="center">
-  <a href="https://randomscript.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Live%20Demo-%2300C853.svg?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active%20Project-brightgreen?style=for-the-badge" />
