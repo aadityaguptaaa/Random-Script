@@ -121,9 +121,3 @@ It motivates continued improvements and new tool additions 🎉
 <p align="center">Made with ❤️, creativity, and caffeine by <strong>Aaditya Gupta</strong></p>
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active%20Project-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Made%20With-Love%20%26%20Code-red?style=for-the-badge" />
-</p>
