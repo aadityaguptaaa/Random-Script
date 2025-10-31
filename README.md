@@ -6,17 +6,6 @@
   <a href="https://randomscript.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Visit%20Live%20Site-%2300C853.svg?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
-  <br/>
-  <a href="https://github.com/aadityaguptaaa/Random-Script/stargazers">
-    <img src="https://img.shields.io/github/stars/aadityaguptaaa/Random-Script?color=yellow&style=flat-square" />
-  </a>
-  <a href="https://github.com/aadityaguptaaa/Random-Script/network/members">
-    <img src="https://img.shields.io/github/forks/aadityaguptaaa/Random-Script?color=blue&style=flat-square" />
-  </a>
-  <a href="https://github.com/aadityaguptaaa/Random-Script/issues">
-    <img src="https://img.shields.io/github/issues/aadityaguptaaa/Random-Script?color=red&style=flat-square" />
-  </a>
-</p>
 
 ---
 
