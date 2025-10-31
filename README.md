@@ -1,25 +1,44 @@
-<h1 align="center">✨ Random Script ✨</h1>
+<h1 align="center">⚡ Random Script ⚡</h1>
 
-<h3 align="center">A Collection of Creative, Random & Useful Tools — Built with HTML, CSS & JavaScript</h3>
+<h3 align="center">🚀 A Creative Playground of Random, Fun & Useful Tools — Built with HTML, CSS & JavaScript</h3>
 
 <p align="center">
   <a href="https://randomscript.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Visit%20Live%20Site-%2300C853.svg?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐 Live%20Demo-%2300C853.svg?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
+  <a href="https://github.com/aadityaguptaaa/Random-Script" target="_blank">
+    <img src="https://img.shields.io/github/repo-size/aadityaguptaaa/Random-Script?label=Repo%20Size&style=for-the-badge&color=FFB300" />
+  </a>
+  <a href="https://github.com/aadityaguptaaa/Random-Script/stargazers">
+    <img src="https://img.shields.io/github/stars/aadityaguptaaa/Random-Script?style=for-the-badge&color=FFD700" />
+  </a>
+  <a href="https://github.com/aadityaguptaaa/Random-Script/issues">
+    <img src="https://img.shields.io/github/issues/aadityaguptaaa/Random-Script?style=for-the-badge&color=FF5252" />
+  </a>
+</p>
 
 ---
 
 ## 🧠 About This Project
 
-**Random Script** is an **open-source collection** of fun, mini-tools and random generators built using **vanilla web technologies**.  
-It’s a creative playground where anyone can contribute — from simple random color pickers to cool interactive utilities.
+**Random Script** is an **open-source collection** of interactive and creative tools built purely with **HTML, CSS, and JavaScript**.  
+From random generators to mini utilities, each tool adds a spark of fun and practicality for developers, students, and creators.
 
-> “A line of random code today, a smarter tool tomorrow.”
+> 🎯 “A line of random code today, a smarter tool tomorrow.”
 
 ---
 
-## 🚀 Live Demo  
-🎯 **Try it now:** [https://randomscript.netlify.app/](https://randomscript.netlify.app/)
+## 🌍 Live Preview  
+
+<p align="center">
+  <a href="https://randomscript.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Click%20Here%20to%20Explore%20🎨-00C853?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/jaygajera17/WDW_Project_CE038_CE042_CE119/blob/main/Image/readme.jpg" width="800px" alt="Project Preview"/>
+</p>
 
 ---
 
@@ -36,48 +55,39 @@ It’s a creative playground where anyone can contribute — from simple random 
 
 ## 💡 How to Contribute
 
-We ❤️ contributions! Follow these steps to add your own random tool:
+Contributions are always welcome 💪  
+Want to add your own random tool? Follow these steps:
 
 1. **Fork** the repository.  
 2. Add your **JS** file inside `script.js`.  
-3. Create your **HTML + CSS** file and keep them in the main directory.  
-4. Add a **card for your tool** in `menu.html` with a valid link to your new file.  
-5. Ensure your tool **works and looks great!**  
-6. Update the **README.md** with your new tool’s name.  
-7. Finally, **submit a pull request** 🚀  
+3. Create your **HTML + CSS** file in the root directory.  
+4. Add a **card** for your tool inside `menu.html` (with valid href).  
+5. Verify your tool works smoothly and looks great 🎨  
+6. Update this README to include your tool.  
+7. **Submit a pull request** 🚀  
 
 ---
 
-## 🧰 Tool List
+## 🧰 Available Tools
 
 | No | Tool Name | Description |
 |:-:|:--|:--|
-| 1 | Random QR Code Generator | Generate QR codes for any text or link |
-| 2 | Random Color Picker | Get random color codes instantly |
-| 3 | Random Password Generator | Create secure passwords |
-| 4 | Flip a Coin | Heads or Tails? |
-| 5 | Roll a Dice | Simulate a dice roll |
-| 6 | Random LED Glow | Fun LED color changer |
-| 7 | Random Choice Picker | Pick between multiple options |
-| 8 | Random YouTube Video Generator | Discover a surprise video |
-| 9 | Random Group Maker | Split lists into random groups |
-| 10 | Guess the Random Word Game | A mini guessing challenge |
+| 1 | 🎯 Random QR Code Generator | Generate QR codes for text or links |
+| 2 | 🎨 Random Color Picker | Instantly get color codes |
+| 3 | 🔐 Random Password Generator | Secure password generator |
+| 4 | 🪙 Flip a Coin | Classic heads or tails |
+| 5 | 🎲 Roll a Dice | Virtual dice roller |
+| 6 | 💡 Random LED Glow | Colorful light simulation |
+| 7 | 🧩 Random Choice Picker | Random option selector |
+| 8 | 📺 Random YouTube Video Generator | Explore a surprise video |
+| 9 | 👥 Random Group Maker | Split items into random groups |
+| 10 | 🧠 Guess the Word Game | Fun random word challenge |
 
 ---
 
-## 🌟 Preview
+## 👨‍💻 Developed & Maintained By
 
-<p align="center">
-  <img src="https://github.com/jaygajera17/WDW_Project_CE038_CE042_CE119/blob/main/Image/readme.jpg" alt="Random Script Preview" width="700px"/>
-</p>
-
----
-
-## 👨‍💻 Created & Maintained By
-
-<h3 align="center">
-  <a href="https://aadityaguptaaa.github.io/My-Portfolio/">Aaditya Gupta</a>  
-</h3>
+<h3 align="center"><a href="https://aadityaguptaaa.github.io/My-Portfolio/">Aaditya Gupta</a></h3>
 
 <p align="center">
   <a href="https://github.com/aadityaguptaaa" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -88,17 +98,17 @@ We ❤️ contributions! Follow these steps to add your own random tool:
 
 ---
 
-## 🏆 Top Contributors
+## ⭐ Support & Feedback
 
-<a href="https://github.com/aadityaguptaaa/Random-Script/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=aadityaguptaaa/Random-Script" />
-</a>
+If you find **Random Script** interesting, don’t forget to **⭐ Star this repository**!  
+Your support helps the project grow and reach more developers ❤️  
+
+<p align="center">Built with 💡 creativity & 💻 code by <strong>Aaditya Gupta</strong></p>
 
 ---
 
-## ⭐ Support & Feedback
-
-If you like this project, consider giving it a ⭐  
-Your support motivates continued updates and new tools!
-
-<p align="center">Made with ❤️ by <strong>Aaditya Gupta</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active%20Project-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20With-Love%20%26%20Code-red?style=for-the-badge" />
+</p>
