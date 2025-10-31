@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us | Random Script</title>
+    <link rel="icon" href="Image/logo.png">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap');
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        body {
+            background: linear-gradient(315deg, #b1ade2 0%, #7ddff8 74%);
+            min-height: 100vh;
+        }
+
+        .navbar {
+            background-color: black;
+            opacity: 0.9;
+        }
+
+        .nav-item a {
+            color: white;
+            font-weight: 500;
+            transition: 0.3s ease;
+        }
+
+        .nav-item a:hover {
+            color: rgb(0, 195, 255);
+        }
+
+        .contact-section {
+            padding: 100px 0;
+        }
+
+        .contact-container {
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.15);
+            padding: 40px;
+            max-width: 900px;
+            margin: auto;
+        }
+
+        .contact-header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .contact-header h1 {
+            font-weight: 700;
+            font-size: 2.2rem;
+            color: #333;
+        }
+
+        .contact-header p {
+            color: #555;
+        }
+
+        label {
+            font-weight: 500;
+            color: #333;
+        }
+
+        input,
+        textarea {
+            border-radius: 10px !important;
+            box-shadow: none !important;
+            border: 1px solid #ccc !important;
+        }
+
+        input:focus,
+        textarea:focus {
+            border-color: #7ddff8 !important;
+            box-shadow: 0 0 5px rgba(125, 223, 248, 0.5) !important;
+        }
+
+        .btn-submit {
+            background-color: #7ddff8;
+            color: black;
+            font-weight: 600;
+            border-radius: 10px;
+            transition: 0.3s;
+        }
+
+        .btn-submit:hover {
+            background-color: #4ecae6;
+            transform: scale(1.02);
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            color: white;
+            background-color: black;
+            margin-top: 50px;
+        }
+
+        ::-webkit-scrollbar {
+            width: 0.7em;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background-color: rgba(0, 0, 0, 0.4);
+            border-radius: 10px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background-color: rgba(0, 0, 0, 0.6);
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark">
+        <div class="container">
+            <a class="navbar-brand" href="Menu.html">Random Script</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" style="margin-right: 30px;" id="navbarSupportedContent">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link" href="Menu.html">Home</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="#">Contact Us</a></li>
+                    <li class="nav-item"><a class="nav-link" href="index.html">Exit</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Contact Section -->
+    <section class="contact-section" data-aos="fade-up">
+        <div class="contact-container">
+            <div class="contact-header">
+                <h1>Contact Us</h1>
+                <p>Have any questions or feedback? We'd love to hear from you!</p>
+            </div>
+
+            <form>
+                <div class="row g-3">
+                    <div class="col-md-6">
+                        <label for="name" class="form-label">AADITYA GUPTA</label>
+                        <input type="text" class="form-control" id="name" placeholder="Enter your name" required>
+                    </div>
+                    <div class="col-md-6">
+                        <label for="email" class="form-label">aadityavidit@gmail.com</label>
+                        <input type="email" class="form-control" id="email" placeholder="Enter your email" required>
+                    </div>
+
+                    <div class="col-12">
+                        <label for="message" class="form-label">Your Message</label>
+                        <textarea class="form-control" id="message" rows="5" placeholder="Type your message..."
+                            required></textarea>
+                    </div>
+                    <div class="col-12 text-center">
+                        <button type="submit" class="btn btn-submit px-5 py-2 mt-3">Send Message</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </section>
+
+    <footer>
+        © 2025 Random Script | Designed by Aaditya
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+        AOS.init({ offset: 120, duration: 600 });
+    </script>
+
+</body>
+
+</html>
